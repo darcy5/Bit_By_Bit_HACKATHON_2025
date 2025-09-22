@@ -18,8 +18,13 @@ This folder contains:
 
 
   Problem 2:
-  Repository Name: 
-
+  Repository Name: https://github.com/darcy5/Bit_By_Bit_HACKATHON_2025/tree/main/Problem2_HACKATHON
+  This file contains:
+    1. IP Details.txt
+    2. Perf Commands.txt                          # contains perf commands used to collect traces based on different events
+    3. Problem2_HACKATHON_Report.pdf
+    4. prediction.py                              # comparinig the obtained traces with the provided traces of different models
+    5. trace_cleaner.py
   Problem 3:
   Repository Name: https://github.com/darcy5/Bit_By_Bit_HACKATHON_2025/tree/main/Problem3_HACKATHON
   This folder contains:
