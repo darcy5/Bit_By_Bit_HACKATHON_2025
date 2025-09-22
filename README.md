@@ -1,5 +1,4 @@
 # Bit_By_Bit_HACKATHON_2025
-Uploading the Hackathon Codes here.
 This repository contains the code, output files, reports of three problems given in hackathon.
 
 Problem 1:
