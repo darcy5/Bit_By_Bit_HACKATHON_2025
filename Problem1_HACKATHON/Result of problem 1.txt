@@ -1,0 +1,5 @@
+Result of problem 1:
+
+The CPA attack successfully recovered the 15-bit RSA private key.
+Final Recovered 15-bit Private Key (Decimal): 26353
+Binary Representation: 110011011110001
