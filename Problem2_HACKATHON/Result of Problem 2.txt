@@ -1,0 +1,5 @@
+Result of Problem 2:
+
+Mobilenet CNN model
+
+Analysis has been provided in the report along with screenshots.
