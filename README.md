@@ -18,10 +18,10 @@ This folder contains:
 
 
   Problem 2:
-  Repository Name:
+  Repository Name: 
 
-  Problem 3:s
-
+  Problem 3:
+  Repository Name: https://github.com/darcy5/Bit_By_Bit_HACKATHON_2025/tree/main/Problem3_HACKATHON
   This folder contains:
     1.  DLSCA_Hackathon_Question.pdf
     2.  Hackathon_Problem_3_Report.pdf
