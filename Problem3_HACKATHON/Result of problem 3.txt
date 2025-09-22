@@ -1,0 +1,7 @@
+Result of problem 3:
+
+Sorted list of candidate key bytes(most likely -> least likely):
+
+250,254,251,249,146,247,216,126,248,255.....,103,89,85
+
+The recovered secret key is 250
