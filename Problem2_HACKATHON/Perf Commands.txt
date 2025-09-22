@@ -1,0 +1,11 @@
+Perf Commands:
+
+ perf stat -I 50 -e branch-misses -o branch_misses.csv -- /home/hackathon/dist/model_inference
+
+ perf stat -I 50 -e cache-misses -o cache_misses.csv -- /home/hackathon/dist/model_inference
+
+ perf stat -I 50 -e cycles -o cycles.csv -- /home/hackathon/dist/model_inference
+
+ perf stat -I 50 -e instructions -o instructions.csv -- /home/hackathon/dist/model_inference
+
+
