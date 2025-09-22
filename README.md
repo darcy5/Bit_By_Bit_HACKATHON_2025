@@ -13,7 +13,7 @@ This folder contains:
   rsa_response_plaintext.csv                            # This file stores the returned plaintext for each trace against the ciphertext
   CPA_attack.py                                         # The ultimate side channel attack script, which finds the key
   verification.py                                       # This script finds the plaintext against the key and varifies if the plaintext is correct or not
-  Report: Hackathon_Problem_1_Report.pdf
+  Report: Hackathon Problem 1 Report.pdf
 
 
 
